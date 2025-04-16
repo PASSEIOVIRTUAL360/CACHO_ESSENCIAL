@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" hassounds="0" apprev="20981" appversion="7.1.7">
+  <panorama id="node1">
+    <input width="5000" height="5000" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" overlap="1" levelbias="0.400">
+      <level preload="0" width="5000" predecode="0" height="5000"/>
+      <level preload="0" width="2500" predecode="0" height="2500"/>
+      <level preload="0" width="1250" predecode="0" height="1250"/>
+      <level preload="0" width="625" predecode="0" height="625"/>
+      <level preload="1" width="312" predecode="1" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" title="Bem Beauty Professional" info="" source="" tags="OFIII" copyright="" heading="0" comment="" author="" longitude="-43.56114792" description="" datetime="2025:04:16 12:56:34" latitude="-22.90649761" nodeid="node1"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" width="180" height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" wordwrap="1" textalpha="1" background="1" borderalpha="1" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.3559" title="Bem Beauty Professional" url="{node2}" pan="0.279799" id="Point01" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomoutpause="1" enabled="1" type="mesh" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomin="7" softedge="0" zoomfov="40" blendtime="1" zoomout="0" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="5000" height="5000" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" overlap="1" levelbias="0.400">
+      <level preload="0" width="5000" predecode="0" height="5000"/>
+      <level preload="0" width="2500" predecode="0" height="2500"/>
+      <level preload="0" width="1250" predecode="0" height="1250"/>
+      <level preload="0" width="625" predecode="0" height="625"/>
+      <level preload="1" width="312" predecode="1" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-194.21">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" title="Bem Beauty Professional" info="" source="" tags="OFIII" copyright="" heading="-194.21" comment="" author="" longitude="-43.56114808" description="" datetime="2025:04:16 12:56:33" latitude="-22.90646743" nodeid="node2"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" width="180" height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" wordwrap="1" textalpha="1" background="1" borderalpha="1" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.3559" title="Bem Beauty Professional" url="{node1}" pan="-373.93" id="Point01" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+      <hotspot distance="3.22911" title="Bem Beauty Professional" url="{node3}" pan="-282.375" id="Point02" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+      <hotspot distance="3.49773" title="Bem Beauty Professional" url="{node5}" pan="-86.4978" id="Point03" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomoutpause="1" enabled="1" type="mesh" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomin="7" softedge="0" zoomfov="40" blendtime="1" zoomout="0" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="5000" height="5000" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" overlap="1" levelbias="0.400">
+      <level preload="0" width="5000" predecode="0" height="5000"/>
+      <level preload="0" width="2500" predecode="0" height="2500"/>
+      <level preload="0" width="1250" predecode="0" height="1250"/>
+      <level preload="0" width="625" predecode="0" height="625"/>
+      <level preload="1" width="312" predecode="1" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-49.5748">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" title="Bem Beauty Professional" info="" source="" tags="OFIII" copyright="" heading="-49.5748" comment="" author="" longitude="-43.56111657" description="" datetime="2025:04:16 12:56:33" latitude="-22.90646650" nodeid="node3"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" width="180" height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" wordwrap="1" textalpha="1" background="1" borderalpha="1" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.22911" title="Bem Beauty Professional" url="{node2}" pan="42.2604" id="Point01" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+      <hotspot distance="3.49027" title="Bem Beauty Professional" url="{node4}" pan="-168.413" id="Point02" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomoutpause="1" enabled="1" type="mesh" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomin="7" softedge="0" zoomfov="40" blendtime="1" zoomout="0" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="5000" height="5000" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" overlap="1" levelbias="0.400">
+      <level preload="0" width="5000" predecode="0" height="5000"/>
+      <level preload="0" width="2500" predecode="0" height="2500"/>
+      <level preload="0" width="1250" predecode="0" height="1250"/>
+      <level preload="0" width="625" predecode="0" height="625"/>
+      <level preload="1" width="312" predecode="1" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-51.1585">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" title="Bem Beauty Professional" info="" source="" tags="OFIII" copyright="" heading="-51.1585" comment="" author="" longitude="-43.56108672" description="" datetime="2025:04:16 12:56:33" latitude="-22.90648164" nodeid="node4"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" width="180" height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" wordwrap="1" textalpha="1" background="1" borderalpha="1" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.49027" title="Bem Beauty Professional" url="{node3}" pan="10.0033" id="Point01" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomoutpause="1" enabled="1" type="mesh" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomin="7" softedge="0" zoomfov="40" blendtime="1" zoomout="0" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="5000" height="5000" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" overlap="1" levelbias="0.400">
+      <level preload="0" width="5000" predecode="0" height="5000"/>
+      <level preload="0" width="2500" predecode="0" height="2500"/>
+      <level preload="0" width="1250" predecode="0" height="1250"/>
+      <level preload="0" width="625" predecode="0" height="625"/>
+      <level preload="1" width="312" predecode="1" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-189.966">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" title="Bem Beauty Professional" info="" source="" tags="OFIII" copyright="" heading="-189.966" comment="" author="" longitude="-43.56118061" description="" datetime="2025:04:16 13:02:00" latitude="-22.90647700" nodeid="node5"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" width="180" height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" wordwrap="1" textalpha="1" background="1" borderalpha="1" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.49773" title="Bem Beauty Professional" url="{node2}" pan="-262.254" id="Point01" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+      <hotspot distance="3.22615" title="Bem Beauty Professional" url="{node6}" pan="-173.268" id="Point02" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomoutpause="1" enabled="1" type="mesh" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomin="7" softedge="0" zoomfov="40" blendtime="1" zoomout="0" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="5000" height="5000" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelingpitch="0" overlap="1" levelbias="0.400">
+      <level preload="0" width="5000" predecode="0" height="5000"/>
+      <level preload="0" width="2500" predecode="0" height="2500"/>
+      <level preload="0" width="1250" predecode="0" height="1250"/>
+      <level preload="0" width="625" predecode="0" height="625"/>
+      <level preload="1" width="312" predecode="1" height="312"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-121.098">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata customnodeid="" title="Bem Beauty Professional" info="" source="" tags="OFIII" copyright="" heading="-121.098" comment="" author="" longitude="-43.56118966" description="" datetime="2025:04:16 13:01:59" latitude="-22.90644921" nodeid="node6"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" width="180" height="20" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" wordwrap="1" textalpha="1" background="1" borderalpha="1" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot distance="3.22615" title="Bem Beauty Professional" url="{node5}" pan="-284.4" id="Point01" tilt="0" target="$fwd" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomoutpause="1" enabled="1" type="mesh" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomin="7" softedge="0" zoomfov="40" blendtime="1" zoomout="0" zoomspeed="2"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" hideabout="0" rubberband="0" lockedmouse="0" invertwheel="0" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" contextvr="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="" author="" description="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
